@@ -45,6 +45,7 @@
 
 
 	<a href="https://www.linkedin.com/in/ananda-aditya/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<br>
 	
 
 
