@@ -22,6 +22,8 @@
 	</a>
 </p>
 
+<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
 
 ## :sassy_man:  About me
 - :school: I am a Senior at Faculty of Computer Science at Klabat University
