@@ -22,7 +22,7 @@
 	</a>
 </p>
 
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="480" alt="SubhadeepZilong" /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="480" height="480" alt="SubhadeepZilong" /></p>
 
 
 
@@ -32,7 +32,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Dart`
 - :student: I’m currently learning: `Computer Science` .
-- :thinking: I’m currently open for: `Project` or a new `Job Opportunity`, this is [MY RESUME](https://ananda-aditya.my.id).
+- :thinking: I’m currently open for: `Project` or a new `Job Opportunity`, this is [MY RESUME](http://ananda-aditya.my.id).
 - :nerd_face: Always `learning new things`
 
 <br>
