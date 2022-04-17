@@ -25,11 +25,11 @@
 
 ## :sassy_man:  About me
 - :school: I am a Senior at Faculty of Computer Science at Klabat University
-- :trophy: `Visit My Linkedin [MY Linkedin](https://linkedin.com/in/ananda-aditya).
+- :trophy: `Visit [My Linkedin](https://linkedin.com/in/ananda-aditya).
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Dart`
 - :student: I’m currently learning: `Computer Science` .
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://ananda-aditya.my.id).
+- :thinking: I’m currently open for: `Project` or a new `Job Opportunity`, this is [MY RESUME](https://ananda-aditya.my.id).
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -41,28 +41,11 @@
 <br>
 
 
-## 👀 My Competitive Programming Profiles
+## 👀 My Programming Profiles
 
-<p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
-</p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
-</p>
-
+	<a href="https://www.linkedin.com/in/ananda-aditya/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	
 
 
 
@@ -180,7 +163,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ascendanc3&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
@@ -203,6 +186,4 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
 -----
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
-Last Edited on: 10/02/2022
