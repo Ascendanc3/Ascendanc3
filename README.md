@@ -22,7 +22,7 @@
 	</a>
 </p>
 
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="480" height="480" alt="SubhadeepZilong" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="480" height="480" alt="SubhadeepZilong" /></p>
 
 
 
