@@ -4,13 +4,6 @@
 
 
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Ascendanc3&label=Profile%20views&color=0e75b6&style=plastic" alt="Ascendanc3" /> 
-	<a href = "https://commits.top/indonesia.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Ascendanc3" target="_blank"/> 
-	</a>
-</p>
-
 <p><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="480" height="480" alt="SubhadeepZilong" /></p>
 
 
