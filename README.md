@@ -9,7 +9,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a Senior at Faculty of Computer Science at Klabat University
+- :school: I am a Senior at Faculty of Computer Science Klabat University
 - :trophy: `Visit [My Linkedin](https://linkedin.com/in/ananda-aditya).
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Dart`
